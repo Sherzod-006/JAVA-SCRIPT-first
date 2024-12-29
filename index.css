@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #232f49;
+}
+.clr{
+    clear: both;
+}
+#container{
+   width: 80%;
+   height: 95vh;
+   background-color: #171c2f;
+   margin: 80px auto;
+}
+h1{
+    text-align: center;
+    color: #faa183;
+    font-size: 50px;
+    padding: 30px 0;
+    box-sizing: border-box;
+}
+
+#input1{
+    display: block;
+    width: 60%;
+    margin: 35px auto;
+    padding: 10px;
+    background-color: #374256 ;
+    color: white;
+    font-size: 30px;
+    border-radius: 10px;
+    border: none;
+    margin-bottom: 0;
+    margin-top: 20px;
+
+}
+#input2{
+    display: block;
+    width: 60%;
+    margin: 35px auto;
+    padding: 10px;
+    background-color: #374256 ;
+    color: white;
+    font-size: 30px;
+    border-radius: 10px;
+    border: none;
+    margin-bottom: 0;
+    margin-top: 20px;
+}
+input placeholder{
+    color: #000;
+}
+#plus{
+    
+    width: 15%;
+    float: left;
+    padding: 25px 20px;
+    background-color: greenyellow;
+    color: white;
+    font-size: 80px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-left: 20%;
+
+}
+#minus{
+   
+    width: 15%;
+    float: left;
+    padding: 25px 20px;
+    background-color:red;
+    color: white;
+    font-size: 80px;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
+
+#times{
+
+    width: 15%;
+    float: left;
+    padding: 25px 20px;
+    background-color:blue;
+    color: white;
+    font-size: 80px;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
+
+#devide{
+ 
+    width: 15%;
+    float: left;
+    padding: 25px 20px;
+    background-color:yellow;
+    color: white;
+    font-size: 80px;
+    border-radius: 10px;
+    cursor: pointer;
+ 
+}
+
+#solve{
+    display: block;
+    width: 60%;
+    margin: 35px auto;
+    padding: 10px;
+    background-color: #232f49 ;
+    color: white;
+    font-size: 30px;
+    border-radius: 10px;
+    border: none;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+#solve:hover{
+    background-color: #faa183;
+    color: #000;
+    font-size: 36px;
+}
+#result{
+    display: block;
+    width: 60%;
+    margin: 35px auto;
+    padding: 10px;
+    background-color: #374256 ;
+    color: yellow;
+    font-size: 30px;
+    border-radius: 10px;
+    border: none;
+    margin-bottom: 0;
+    margin-top: 20px;
+}
+h2{
+    text-align: center;
+    color: crimson;
+    font-size: 40px;
+    background-color: #171c2f;
+}
