@@ -1,2 +1,2 @@
-# JAVA-SCRIPT-first
+# alculator-web
 JAVA SCRIPT  practise "калькулятор"
